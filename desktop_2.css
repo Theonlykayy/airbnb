@@ -1,0 +1,854 @@
+.desktop-2 .airb-b {
+  margin: 0 11.5px 1px 0;
+  display: inline-block;
+  width: 65px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .home {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .login {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .rooms {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .about-us {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .contact-us {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-1 {
+  background: #302E32;
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 22px 98.1px 22px 98px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-2 .line-3 {
+  background: #000000;
+  margin: 0 95px 35px 100px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/mini_magick_20240714318367_a_1_qh_1.jpeg') 50% / cover no-repeat;
+  margin-right: 28px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .bedroom-luxury-apartment-shortlet {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.eti-osa-lekki-phase-1 {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #000000;
+}
+.desktop-2 .eti-osa-lekki-phase-1 {
+  margin: 0 1px 3px 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.eti-osa-lekki-phase-1-sub48 {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #000000;
+}
+.eti-osa-lekki-phase-1-sub49 {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum-2 {
+  margin: 0 1.9px 18px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night-2 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-9 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 14.4px 8px 15px;
+  box-sizing: border-box;
+}
+.desktop-2 .details-2 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-27 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-10 {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 828px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-4 {
+  margin: 7px 0 11px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .container-36 {
+  margin: 0 107px 39px 131px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .line-1 {
+  background: #000000;
+  margin: 0 98px 36px 97px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-17 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_59.jpeg') 50% / cover no-repeat;
+  margin-right: 29px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .double-deluxe-room-in-our-home-suite-hot {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-2 .ikeja {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum-3 {
+  margin: 0 0.9px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night-3 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-6 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 9px 16.5px 6px 13px;
+  box-sizing: border-box;
+}
+.desktop-2 .details-3 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-17 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 827px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-19 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .container-22 {
+  margin: 0 108px 37px 131px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .line-4 {
+  background: #000000;
+  margin: 0 97px 36px 98px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-14 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_14.jpeg') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .studio-apartment-in-villa-angelia-victor {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-2 .victoria-island {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum-4 {
+  margin: 0 0.9px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night-4 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-30 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 9px 5.9px 6px 13px;
+  box-sizing: border-box;
+}
+.desktop-2 .details-4 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-21 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 827px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-33 {
+  margin: 3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .container-35 {
+  margin: 0 108px 40px 136px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .line-5 {
+  background: #000000;
+  margin: 0 97px 36px 98px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-16 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_53.jpeg') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .bedroom-ocean-view-short-let-apartment {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-2 .lekki-phase-1-lekki-phase-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum-5 {
+  margin: 0 0.9px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night-5 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-12 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 9px 13.8px 6px 13px;
+  box-sizing: border-box;
+}
+.desktop-2 .details-5 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-18 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 827px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-28 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .container-23 {
+  margin: 0 108px 37px 136px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .line-2 {
+  background: #000000;
+  margin: 0 97px 36px 98px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-32 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_48.jpeg') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .exceptional-value-3-bedroom-short-let-fl {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-2 .lagosvictoria-island-victoria-island {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum {
+  margin: 0 0.9px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-8 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 9px 10.1px 6px 13px;
+  box-sizing: border-box;
+}
+.desktop-2 .details-1 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-29 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 827px;
+  box-sizing: border-box;
+}
+.desktop-2 .container {
+  margin: 3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .container-7 {
+  margin: 0 108px 40px 136px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .line-6 {
+  background: #000000;
+  margin: 0 98px 33px 97px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-2 .rectangle-38 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_38.jpeg') 50% / cover no-repeat;
+  margin: 1px 24px 0 0;
+  width: 345px;
+  height: 293px;
+}
+.desktop-2 .v {
+  margin: 0 75.8px 31px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .lagoslekki-phase-1-lekki-phase-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.desktop-2 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum-1 {
+  margin: 0 0.9px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-2 .per-night-1 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-32 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 9px 10.1px 6px 13px;
+  box-sizing: border-box;
+}
+.desktop-2 .details {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-24 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 7px 0.8px 8px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 827px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-31 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .bedroom-apartment-in-presken-hotels-le {
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-2 .container-26 {
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-2 .container-5 {
+  margin: 0 108px 47px 136px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .company {
+  margin-right: 11.5px;
+  width: 89px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-2 .resources {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-2 .legal {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-2 .useful-links {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-2 .follow-us {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-2 .container-16 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1245.3px;
+  box-sizing: border-box;
+}
+.desktop-2 .about {
+  margin: 3px 10px 9px 0;
+  display: inline-block;
+  width: 44px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .get-help {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .privacy-policy {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .blogs {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .ellipse-1 {
+  margin-right: 12px;
+  width: 31px;
+  height: 32px;
+}
+.desktop-2 .ellipse-3 {
+  width: 31px;
+  height: 32px;
+}
+.desktop-2 .container-15 {
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-34 {
+  margin: 0 26.3px 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1219px;
+  box-sizing: border-box;
+}
+.desktop-2 .team {
+  margin: 0 10px 18px 0;
+  display: inline-block;
+  width: 40px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .support {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .cookie-policy {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .faqs {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-2 .ellipse-2 {
+  margin-right: 12px;
+  width: 31px;
+  height: 32px;
+}
+.desktop-2 .ellipse-4 {
+  width: 31px;
+  height: 32px;
+}
+.desktop-2 .container-3 {
+  margin-top: 6px;
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .container-13 {
+  margin: 0 26.3px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1219px;
+  box-sizing: border-box;
+}
+.desktop-2 .airbb-all-rights-reserved {
+  margin-left: 3px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-2 .group-3 {
+  background: #302E32;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 51px 97.7px 12px 97px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

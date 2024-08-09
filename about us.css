@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+header {
+  background: #302E32;
+  padding: 22px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo, .nav-links {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.nav-links {
+  margin-left: 730px;
+  justify-content: flex-end;
+}
+
+.nav-links a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white; 
+}
+
+
+
+.build{
+    position: relative;
+   width: 100%;
+   max-width: 100%;
+}
+
+.top-image{
+    width: 100%;
+    max-width: 100%;
+   position: relative;
+   height: 650px
+}
+
+
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+  }
+  
+ 
+  
+
+.building{
+z-index: 3;
+font-family: ;
+display: inline;
+text-align: center;
+    color: white;
+    width: 80%;
+    font-size:85px;
+    stroke: #949197;
+    margin: 1px 60px auto;
+    position: absolute;
+    padding-top: 100px;
+    top: 30%;
+  left: 46%;
+   transform: translate(-50%, -50%);
+}
+
+.at{
+  width: 100%;
+position: absolute;
+font-size: 15px;
+color: white;
+text-align: center;
+}
+.container{
+    position: relative;
+    width: 100%; 
+}
+
+.image{
+    opacity: 20%;
+    width: 100%;
+    max-width: 100%;
+    margin-top: -5px;
+}
+.welcome{
+    width: 800px;
+    margin: auto;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   color: #302E32;
+   font-size: 20px;
+}
+
+footer {
+  background: #302E32;
+  color: #FFFFFF;
+  padding: 40px 20px 10px 20px;
+  text-align: left;
+  margin-top: -20px;
+}
+
+footer .footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+}
+
+
+footer h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+footer ul {
+  list-style: none;
+  padding: 0;
+  
+}
+
+footer ul li {
+  margin-bottom: 10px;
+  color: white;
+ 
+  
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+}

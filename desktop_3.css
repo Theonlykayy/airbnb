@@ -1,0 +1,912 @@
+.desktop-3 .airb-b {
+  margin: 0 11.5px 1px 0;
+  display: inline-block;
+  width: 65px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .home {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .login {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .rooms {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .about-us {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .contact-us {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .container-19 {
+  background: #302E32;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 22px 98.1px 22px 98px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-42 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 30px;
+  translate: -50% 0;
+  width: 1248px;
+  height: 1331px;
+}
+.desktop-3 .rectangle-43 {
+  background: #302E32;
+  position: relative;
+  margin-bottom: 14px;
+  width: 1248px;
+  height: 10px;
+}
+.desktop-3 .room-details {
+  margin: 2px 15px 4px 0;
+  display: inline-block;
+  width: 216px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .reserve {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-7 {
+  border-radius: 20px;
+  border: 1px solid #302E32;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 26px;
+  display: flex;
+  padding: 6px 0 7px 0.4px;
+  width: 105px;
+  box-sizing: border-box;
+}
+.desktop-3 .back-to-list {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.desktop-3 .group-8 {
+  border-radius: 20px;
+  background: #302E32;
+  position: relative;
+  display: flex;
+  padding: 6px 18.8px 7px 18px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-21 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .container-22 {
+  position: relative;
+  margin: 0 31px 13.5px 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1184px;
+  box-sizing: border-box;
+}
+.desktop-3 .line-3 {
+  background: #000000;
+  position: relative;
+  margin: 0 2px 24.5px 1px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-3 .mini-magick-20240714318367-a-1-qh-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/mini_magick_20240714318367_a_1_qh_1.jpeg') 50% / cover no-repeat;
+  width: 641px;
+  height: 412px;
+}
+.desktop-3 .rectangle-51 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_51.jpeg') 50% / cover no-repeat;
+  margin-bottom: 32px;
+  width: 236px;
+  height: 190px;
+}
+.desktop-3 .rectangle-48 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_48.jpeg') 50% / cover no-repeat;
+  width: 236px;
+  height: 190px;
+}
+.desktop-3 .container-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 236px;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-52 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_59.jpeg') 50% / cover no-repeat;
+  margin-bottom: 28px;
+  width: 236px;
+  height: 190px;
+}
+.desktop-3 .rectangle-53 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/rectangle_53.jpeg') 50% / cover no-repeat;
+  width: 236px;
+  height: 190px;
+}
+.desktop-3 .container-24 {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 236px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-3 .container-9 {
+  position: relative;
+  margin: 0 33px 32px 33px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 22px;
+  width: 1157px;
+  box-sizing: border-box;
+}
+.desktop-3 .bedroom-luxury-apartment-shortlet {
+  position: relative;
+  margin: 0 38px 9px 38px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.eti-osa-lekki-phase-1 {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #302E32;
+}
+.desktop-3 .eti-osa-lekki-phase-1 {
+  position: relative;
+  margin: 0 38px 13px 38px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.eti-osa-lekki-phase-1-sub54 {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #302E32;
+}
+.eti-osa-lekki-phase-1-sub53 {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #302E32;
+}
+.desktop-3 .line-1 {
+  background: rgba(48, 46, 50, 0.62);
+  position: relative;
+  margin: 0 2px 16px 1px;
+  width: 1245px;
+  height: 0px;
+}
+.desktop-3 .house-type-capacity {
+  margin-bottom: 26px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-3 .rectangle-57 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .apartment {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-571 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .guests {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-572 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .bedrooms {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-11 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .container-15 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 537.2px;
+  box-sizing: border-box;
+}
+.desktop-3 .about-this-place {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-3 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-maecenas-hendrerit-est-elit-vitae-sagittis-lorem-lobortis-in-donec-vulputate-metus-vel-hendrerit-pulvinar-lectus-arcu-cursus-ipsum-vitae-tincidunt-erat-velit-sit-amet-tortor-integer-sit-amet-ex-pellentesque-purus-hendrerit-rhoncus-aliquam-aliquet-hendrerit-turpis-ut-imperdiet-lacus-condimentum-at-etiam-aliquet-non-nunc-avehicula-cras-lobortis-velit-sed-sollicitudin-bibendum-tellus-arcu-lobortis-dolor-rutrum-ullamcorper-est-ante-vitae-ipsum-vestibulum-ante-ipsum {
+  margin-bottom: 40px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  color: #302E32;
+}
+.desktop-3 .what-this-place-offers {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-3 .rectangle-573 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .lock-on-bedroom-door {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-12 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-576 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .inch-tv {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-15 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .container-4 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 434.1px;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-574 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .wi-fi {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-13 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-577 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .workspace {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-16 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .container-18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 441.1px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-6 {
+  margin: 0 93.8px 18px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-3 .per-night {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #302E32;
+}
+.desktop-3 .select-dates {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .container {
+  margin: 0 2px 11px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .line-7 {
+  background: #000000;
+  margin: 0 2.3px 26px 2px;
+  width: 424px;
+  height: 0px;
+}
+.desktop-3 .adults {
+  margin-right: 16px;
+  width: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .children {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .container-7 {
+  margin: 0 2px 40px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 331.3px;
+  box-sizing: border-box;
+}
+.desktop-3 .line-8 {
+  background: #000000;
+  width: 188px;
+  height: 0px;
+}
+.desktop-3 .line-9 {
+  background: #000000;
+  width: 188px;
+  height: 0px;
+}
+.desktop-3 .container-14 {
+  margin: 0 0.3px 47px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 426px;
+  box-sizing: border-box;
+}
+.desktop-3 .n-53000-x-2-nights {
+  margin-right: 16px;
+  width: 209px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .n-106000 {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .container-17 {
+  margin: 0 0 11px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 426.3px;
+  box-sizing: border-box;
+}
+.desktop-3 .line-10 {
+  background: #000000;
+  margin: 0 2.3px 15px 2px;
+  width: 424px;
+  height: 0px;
+}
+.desktop-3 .total {
+  margin: 2px 16px 0 0;
+  display: inline-block;
+  width: 56px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .n-1060001 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 25px;
+  color: #302E32;
+}
+.desktop-3 .container-12 {
+  margin: 0 2px 17px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 424.3px;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-56 {
+  background: #D9D9D9;
+  margin-right: 13px;
+  width: 52px;
+  height: 48px;
+}
+.desktop-3 .book-now {
+  margin: 8px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.desktop-3 .container-23 {
+  border-radius: 10px;
+  background: #2F322E;
+  position: relative;
+  margin-right: 2.3px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 10px 0;
+  width: 426px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-11 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 9.7px 14px 16px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-16 {
+  position: relative;
+  margin: 0 38px 12px 38px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-575 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .bathtub {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-578 {
+  background: #D9D9D9;
+  margin-right: 15px;
+  width: 37px;
+  height: 30px;
+}
+.desktop-3 .hrs-electricity {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #302E32;
+}
+.desktop-3 .group-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-3 .container-20 {
+  position: relative;
+  margin: 0 38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 480.3px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-2 {
+  background: #DDDDDD;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 94px 84px 98px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-3 .company {
+  margin-right: 11.5px;
+  width: 89px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-3 .resources {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-3 .legal {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-3 .useful-links {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-3 .follow-us {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  color: #A08CB4;
+}
+.desktop-3 .container-3 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1245.3px;
+  box-sizing: border-box;
+}
+.desktop-3 .about {
+  margin: 3px 10px 9px 0;
+  display: inline-block;
+  width: 44px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .get-help {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .privacy-policy {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .blogs {
+  margin: 3px 0 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .ellipse-1 {
+  margin-right: 12px;
+  width: 31px;
+  height: 32px;
+}
+.desktop-3 .ellipse-3 {
+  width: 31px;
+  height: 32px;
+}
+.desktop-3 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  box-sizing: border-box;
+}
+.desktop-3 .container {
+  margin: 0 26.3px 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1219px;
+  box-sizing: border-box;
+}
+.desktop-3 .team {
+  margin: 0 10px 18px 0;
+  display: inline-block;
+  width: 40px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .support {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .cookie-policy {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .faqs {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-3 .ellipse-2 {
+  margin-right: 12px;
+  width: 31px;
+  height: 32px;
+}
+.desktop-3 .ellipse-4 {
+  width: 31px;
+  height: 32px;
+}
+.desktop-3 .container-5 {
+  margin-top: 6px;
+  display: flex;
+  flex-direction: row;
+  width: 74px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-3 .container-8 {
+  margin: 0 26.3px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1219px;
+  box-sizing: border-box;
+}
+.desktop-3 .airbb-all-rights-reserved {
+  margin-left: 3px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-3 .group-3 {
+  background: #302E32;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 51px 97.7px 12px 97px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-3 .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-3 .rectangle-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/mini_magick_20240714318367_a_1_qh_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 131px;
+  top: 130px;
+  width: 345px;
+  height: 293px;
+}
+.desktop-3 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
