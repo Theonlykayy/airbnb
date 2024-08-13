@@ -1,0 +1,157 @@
+body {
+    margin: 0px;
+    font-family: 'Outfit', sans-serif;
+      background-color: #f4f4f4;  
+      align-items: center;
+    justify-content: center;
+  }
+  
+  header {
+    background: #302E32;
+    padding: 22px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo, .nav-links {
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  
+  .nav-links {
+    margin-left: 790px;
+    justify-content: flex-end;
+  }
+  
+  .nav-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white; 
+  }
+    
+  
+  hr{
+    width: 93%;
+    margin-top: 30px;
+  }
+  
+  .container hr{
+    width: 93%;
+    margin-top: 20px;
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.container img{
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+.room-details{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.room-details h2{
+    color: #302E32;
+    margin-top: 25px;
+}
+
+.room-details h3{
+    color: #302E32;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+  
+  .more-info {
+    padding: 20px 0 10px;
+    background: #F8F8F8;
+    text-align: center;
+  }
+  .more-info h2{
+    margin-bottom: 0px;
+  }
+  .bottom-container{
+      display: grid;
+      grid-template-columns: repeat(4, 1fr); 
+      grid-gap: 50px;
+      width: fit-content;
+      text-align: left;
+      margin: 50px auto 0px auto;
+  
+  }
+  .bottom{
+    width: 250px;
+  }
+  
+  footer {
+    margin-top: 30px;
+    background: #302E32;
+    color: #FFFFFF;
+    padding: 40px 20px 10px 20px;
+    text-align: left;
+  }
+  
+  footer .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+  }
+  
+  .face{
+    font-size: 30px;
+  }
+  
+  footer h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  footer ul {
+    list-style: none;
+    padding: 0;
+    
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+    color: white;
+   
+    
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  
