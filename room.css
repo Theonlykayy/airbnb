@@ -92,6 +92,12 @@ body {
     width: 700px;
 }
 
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .night{
     background-color: #302E32;
     width: 150px;
@@ -100,6 +106,10 @@ body {
     border-radius: 20px;
     text-align: center;
     justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 
