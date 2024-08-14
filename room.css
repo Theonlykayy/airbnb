@@ -69,18 +69,38 @@ body {
 .room-details h2{
     color: #302E32;
     margin-top: 25px;
+    margin-bottom: 0px;
 }
 
 .room-details h3{
-    color: #302E32;
-    margin-top: 25px;
+   margin-bottom: 10px;
+    margin-top: 5px;
+    color: black;
+
 }
 
 
+.room-details h4{
+    color: #302E32;
+    margin-top: 0px;
+   font-style: normal;
+   font-weight: 10;
 
+}
 
+.room-headings{
+    width: 700px;
+}
 
-
+.night{
+    background-color: #302E32;
+    width: 150px;
+    height:30px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
 
 
 
