@@ -1,0 +1,159 @@
+*{
+   font-family: 'Outfit', sans-serif;
+ margin:0; padding:0;
+ box-sizing: border-box;
+ outline: none; border:none;
+ text-decoration: none;}
+
+ header {
+   background: #302E32;
+   padding: 22px 50px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ 
+ .navbar {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ 
+ .logo, .nav-links {
+   display: flex;
+   align-items: center;
+   color: white;
+ }
+ 
+ .nav-links {
+   margin-left: 790px;
+   justify-content: flex-end;
+ }
+ 
+ .nav-links a {
+   margin: 0 10px;
+   text-decoration: none;
+   color: white; 
+ }
+   
+
+.form-container{
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding:20px;
+   padding-bottom: 60px;
+   background: #F4F4F4;
+}
+
+.form-container form{
+   padding:20px;
+   border-radius: 5px;
+   box-shadow: 0 5px 10px rgba(0,0,0,.1);
+   background: #302E32;
+   text-align: center;
+   width: 500px;
+}
+
+.form-container form h3{
+   font-size: 30px;
+   text-transform: uppercase;
+   margin-bottom: 10px;
+   color:white;
+}
+
+.form-container form input,
+.form-container form select{
+   width: 100%;
+   padding:10px 15px;
+   font-size: 17px;
+   margin:8px 0;
+   background: #eee;
+   border-radius: 5px;
+}
+
+.form-container form select option{
+   background: #fff;
+}
+
+.form-container form .form-btn{
+   background: #77747a;
+   color: #302E32;
+   text-transform: capitalize;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.form-container form .form-btn:hover{
+   background: #F4F4F4;
+   color: #302E32;
+}
+
+.form-container form p{
+   margin-top: 10px;
+   font-size: 20px;
+   color:white;
+}
+
+.form-container form p a{
+   color: white;
+}
+
+.form-container form .error-msg{
+   margin:10px 0;
+   display: block;
+   background: #302E32;
+   color:#fff;
+   border-radius: 5px;
+   font-size: 20px;
+   padding:10px;
+}
+
+footer {
+   background: #302E32;
+   color: #FFFFFF;
+   padding: 40px 20px 10px 20px;
+   text-align: left;
+   margin-top: -20px;
+ }
+ 
+ footer .footer-content {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   
+ }
+ 
+ .face{
+   font-size: 30px;
+ }
+ footer h3 {
+   font-size: 18px;
+   margin-bottom: 10px;
+   color: white;
+ }
+ 
+ a{
+   color: white;
+   text-decoration: none;
+ }
+ footer ul {
+   list-style: none;
+   padding: 0;
+   
+ }
+ 
+ footer ul li {
+   margin-bottom: 10px;
+   color: white;
+  
+   
+ }
+ 
+ .footer-bottom {
+   margin-top: 20px;
+   font-size: 14px;
+   text-align: center;
+ }
+ 
