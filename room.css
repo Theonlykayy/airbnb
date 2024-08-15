@@ -50,6 +50,7 @@ body {
 .container{
     display: flex;
     flex-direction: column;
+  
     gap: 20px;
 }
 
@@ -65,7 +66,13 @@ body {
     flex-direction: row;
     gap: 20px;
 }
-
+.room-link {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  text-decoration: none; 
+  color: inherit;
+}
 .room-details h2{
     color: #302E32;
     margin-top: 25px;
