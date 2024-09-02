@@ -11,6 +11,7 @@
         rel="stylesheet">
       <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
       <link rel="stylesheet" href="login.css" />
+      <script type="module" src="firebaseauth.js"></script>
     </head>
 <body>
   <header>
@@ -27,6 +28,7 @@
 <div class="form-container">
 
    <form action="" method="post">
+    <div id="signUpMessage" class="messageDiv" style="display:none;"></div>
       <h3>login now</h3>
       <input type="email" name="email" required placeholder="email">
       <input type="password" name="password" required placeholder="password">
