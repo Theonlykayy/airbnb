@@ -3,8 +3,8 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/fireba
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-import {getAuth, createUserWithEmailAndPassword,signInWithEmailAndPassword} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-auth.js";
-import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
+import {getAuth, createUserWithEmailAndPassword,signInWithEmailAndPassword} from "https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js";
+import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js"
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBIo7Ucxjjug1RUXuI9LEWeIq4pVE9sHIk",
@@ -42,7 +42,7 @@ const signUp=document.getElementById('submitSignUp');
         const user=userCredential.user;
         const userData={
             email: email,
-            firstname: firstname,
+            firstName: firstName,
             
         };
         showMessage('Account Created Successfully', 'signUpMessage');
