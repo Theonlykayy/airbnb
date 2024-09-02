@@ -33,13 +33,14 @@ function showMessage(message, divId) {
   }, 5000);
 }
 
-document.getElementById("registerForm").addEventListener("submit", (event) => {
+document.getElementById("registerForm")?.addEventListener("submit", (event) => {
   event.preventDefault();
   handleSignUp();
 });
 
 document.getElementById("loginForm").addEventListener("submit", (event) => {
   event.preventDefault();
+  handleSignIn();
 });
 
 function handleSignUp() {
@@ -68,30 +69,27 @@ function handleSignUp() {
         showMessage("Unable to create User", "signUpMessage");
       }
     });
+}
 
+function handleSignIn() {
+  const email = document.getElementById('email').value;
+  const password = document.getElementById('password').value;
 
-    const signIn=document.getElementById('submitSignIn');
- signIn.addEventListener('click', (event)=>{
-    event.preventDefault();
-    const email=document.getElementById('email').value;
-    const password=document.getElementById('password').value;
-    const auth=getAuth();
-
-    signInWithEmailAndPassword(auth, email,password)
-    .then((userCredential)=>{
-        showMessage('login is successful', 'signInMessage');
-        const user=userCredential.user;
-        localStorage.setItem('loggedInUserId', user.uid);
-        window.location.href='logged.html';
+  signInWithEmailAndPassword(auth, email, password)
+    .then((userCredential) => {
+      showMessage('Login is successful', 'signInMessage');
+      const user = userCredential.user;
+      localStorage.setItem('loggedInUserId', user.uid);
+      window.location.href = 'logged.html';
     })
-    .catch((error)=>{
-        const errorCode=error.code;
-        if(errorCode==='auth/wrong-password'){
-            showMessage('Incorrect Email or Password', 'signInMessage');
-        }
-        else{
-            showMessage('Account does not Exist', 'signInMessage');
-        }
-    })
- })
+    .catch((error) => {
+      const errorCode = error.code;
+      if (errorCode === 'auth/wrong-password') {
+        showMessage('Incorrect Email or Password', 'signInMessage');
+      } else if (errorCode === 'auth/user-not-found') {
+        showMessage('Account does not Exist', 'signInMessage');
+      } else {
+        showMessage('Unable to log in', 'signInMessage');
+      }
+    });
 }
