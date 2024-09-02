@@ -109,7 +109,20 @@
    font-size: 20px;
    padding:10px;
 }
-
+button{
+  font-size:1.1rem;
+  padding:8px 0;
+  border-radius:5px;
+  outline:none;
+  border:none;
+  width:100%;
+  background:#77747a;
+  color:white;
+  cursor:pointer;
+  transition:0.9s;
+}
+button:hover{
+  background: #464448}
 footer {
    background: #302E32;
    color: #FFFFFF;
