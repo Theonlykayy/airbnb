@@ -49,21 +49,22 @@ const signUp=document.getElementById('submitSignUp');
         const docRef=doc(db, "users", user.uid);
         setDoc(docRef,userData)
         .then(()=>{
-            window.location.href='index.html';
+            window.location.href='Login.html';
         })
     });
        
 
- .catch((error) => {
-    const errorCode = error.code;
-    const errorMessage = error.message; 
+    .catch((error)=>{
+        console.error("error writing document", error);
 
-    if (errorCode === 'auth/email-already-in-use') {
+    });
+
+.catch((error)=>{
+    const errorCode=error.code;
+    if(errorCode=='auth/email-already-in-use'){
         showMessage('Email Address Already Exists !!!', 'signUpMessage');
-    } else {
-        showMessage(`Unable to create user: ${errorMessage}`, 'signUpMessage'); 
     }
-
-    console.error("Error code:", errorCode); 
-    console.error("Error message:", errorMessage); 
-});
+    else{
+        showMessage('unable to create User', 'signUpMessage');
+    }
+})
