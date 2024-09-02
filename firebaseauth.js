@@ -86,7 +86,7 @@ function handleSignUp() {
     })
     .catch((error)=>{
         const errorCode=error.code;
-        if(errorCode==='auth/invalid-credential'){
+        if(errorCode==='auth/wrong-password'){
             showMessage('Incorrect Email or Password', 'signInMessage');
         }
         else{
