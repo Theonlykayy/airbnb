@@ -77,12 +77,14 @@ function handleSignIn() {
 
   signInWithEmailAndPassword(auth, email, password)
     .then((userCredential) => {
+      console.log("Login successful:", userCredential);
       showMessage('Login is successful', 'signInMessage');
       const user = userCredential.user;
       localStorage.setItem('loggedInUserId', user.uid);
       window.location.href = 'logged.html';
     })
     .catch((error) => {
+      console.error("Sign-in error:", error);
       const errorCode = error.code;
       if (errorCode === 'auth/wrong-password') {
         showMessage('Incorrect Email or Password', 'signInMessage');
