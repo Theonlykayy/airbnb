@@ -36,7 +36,7 @@ const signUp=document.getElementById('submitSignUp');
 
     const auth=getAuth();
     const db=getFirestore();
-
+});
     createUserWithEmailAndPassword(auth, email, password)
     .then((userCredential)=>{
         const user=userCredential.user;
@@ -51,19 +51,19 @@ const signUp=document.getElementById('submitSignUp');
         .then(()=>{
             window.location.href='index.html';
         })
-        .catch((error)=>{
-            console.error("error writing document", error);
+    });
+       
 
-        });
-    })
-    .catch((error)=>{
-        const errorCode=error.code;
-        if(errorCode=='auth/email-already-in-use'){
-            showMessage('Email Address Already Exists !!!', 'signUpMessage');
-        }
-        else{
-            showMessage('unable to create User', 'signUpMessage');
-        }
-    })
- });
+ .catch((error) => {
+    const errorCode = error.code;
+    const errorMessage = error.message; 
 
+    if (errorCode === 'auth/email-already-in-use') {
+        showMessage('Email Address Already Exists !!!', 'signUpMessage');
+    } else {
+        showMessage(`Unable to create user: ${errorMessage}`, 'signUpMessage'); 
+    }
+
+    console.error("Error code:", errorCode); 
+    console.error("Error message:", errorMessage); 
+});
