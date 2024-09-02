@@ -2,6 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/fireba
 import {
   getAuth,
   createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
 } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js";
 import {
   getFirestore,
@@ -37,16 +38,17 @@ document.getElementById("registerForm").addEventListener("submit", (event) => {
   handleSignUp();
 });
 
+document.getElementById("loginForm").addEventListener("submit", (event) => {
+  event.preventDefault();
+});
+
 function handleSignUp() {
   const email = document.getElementById("rEmail").value;
   const password = document.getElementById("rPassword").value;
   const firstName = document.getElementById("fName").value;
 
-  console.log("Sign up initiated");
-  
   createUserWithEmailAndPassword(auth, email, password)
     .then((userCredential) => {
-      console.log("User created successfully");
       const user = userCredential.user;
       const userData = {
         email,
@@ -55,12 +57,10 @@ function handleSignUp() {
       return setDoc(doc(db, "users", user.uid), userData);
     })
     .then(() => {
-      console.log("User data saved to Firestore");
       showMessage("Account Created Successfully", "signUpMessage");
       window.location.href = "Login.html";
     })
     .catch((error) => {
-      console.error("Error during sign up: ", error);
       const errorCode = error.code;
       if (errorCode === "auth/email-already-in-use") {
         showMessage("Email Address Already Exists !!!", "signUpMessage");
