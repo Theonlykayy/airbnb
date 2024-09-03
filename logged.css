@@ -27,7 +27,7 @@ header {
 }
 
 .nav-links {
-  margin-left: 790px;
+  margin-left: 770px;
   justify-content: flex-end;
 }
 
@@ -35,6 +35,7 @@ header {
   margin: 0 10px;
   text-decoration: none;
   color: white; 
+ 
 }
 
 

@@ -1,0 +1,142 @@
+body {
+    margin: 0px;
+    font-family: 'Outfit', sans-serif;
+      background-color: #f4f4f4;  
+      align-items: center;
+    justify-content: center;
+  }
+  
+  header {
+    background: #302E32;
+    padding: 22px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo, .nav-links {
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  
+  .nav-links {
+    margin-left: 770px;
+    justify-content: flex-end;
+  }
+  
+  .nav-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white; 
+   
+  }
+  
+.main{
+    height: 500px;
+    width: 100%;
+    background-color: ;
+}
+.user-profile {
+    border: 1px solid #d8d8d8;
+    padding: 40px;
+    border-radius: 8px;
+    width: 600px;
+    margin: 40px auto;
+    font-family: Arial, sans-serif;
+}
+
+.user-profile h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.user-profile p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.user-profile strong {
+    font-weight: bold;
+}
+  
+button{
+    color:white;
+    background-color:#77747a ;
+    ;
+    padding:5px;
+    border-radius:5px;
+    font-size:1rem;
+    font-weight:bold;
+    border:none;
+}
+button:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: #302E32
+    ;
+}
+
+
+
+
+
+
+
+
+  footer {
+    background: #302E32;
+    color: #FFFFFF;
+    padding: 40px 20px 10px 20px;
+    text-align: left;
+  }
+  
+  footer .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+  }
+  
+  .face{
+    font-size: 30px;
+  }
+  
+  footer h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  footer ul {
+    list-style: none;
+    padding: 0;
+    
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+    color: white;
+   
+    
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+  }
+  
